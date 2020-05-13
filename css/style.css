@@ -37,11 +37,12 @@ li{
 
 .media{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
+
 .titles{
+    width: 100%;
     display: flex;
-    justify-content: space-evenly;
     font-size: 20px;
     font-style: italic;
 }
