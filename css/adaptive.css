@@ -36,6 +36,9 @@
     .dark{
         background-color: #445162;
     }
+    #lecture_img{
+        width: 100px;
+    }
 }
 @media(max-width: 375px){
     .media{
@@ -52,5 +55,8 @@
     #git_link{
         width: 300px;
         margin: 0 4% 0 ;
+    }
+    #lecture_img{
+        width: 100px;
     }
 }
