@@ -36,9 +36,11 @@ li{
 }
 
 .media{
-    margin-left: 100px;
+    padding-top: 4%;
+    padding-bottom: 4%;
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 iframe{
