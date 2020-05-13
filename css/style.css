@@ -69,6 +69,7 @@ iframe{
 }
 #lecture_img{
     width: 100%;
+    height: auto;
 }
 footer{
     padding-top: 50px;
