@@ -43,7 +43,7 @@ li{
     text-align: center;
 }
 
-iframe{
+iframe,#git_link{
     width: 560px;
     height: 315px;
 }
@@ -52,10 +52,6 @@ iframe{
     color: #445162;
 }
 
-#git_link{
-    height: 370px;
-    width: auto;
-}
 #div_bordered{
     font-size: unset;
     font-family: unset;
